@@ -2,10 +2,10 @@
 
 <div align="center">
 
-  # 💫 SERGEY KUCHUMOV
-  ### ⚡ FULL STACK VISIONARY × SYSTEMS ARCHITECT
+  # 💫 SERGEY KUCHUMOV 💫
+  ### ⚡ FULL STACK DEVELOPER AND LINUXOID ⚡
 
-  > *Hard work :)*
+  > *Hard working :)*
 
 <div align="center">
 
