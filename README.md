@@ -2,7 +2,6 @@
 
 <div align="center">
 
-  # 💫 SERGEY KUCHUMOV 💫
   ### ⚡ FULL STACK DEVELOPER AND LINUXOID ⚡
 
   > *Hard working :)*
